@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_gender">
+        <item>Tanlanmagan</item>
+        <item>Erkak</item>
+        <item>Ayol</item>
+    </string-array>
+
+</resources>
